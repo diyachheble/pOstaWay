@@ -1,0 +1,14 @@
+{"level":"info","message":"/api/comments/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comments/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comments/3 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comments/34 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comments/1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comments/2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/comments - {\"id\":4,\"postId\":2,\"userId\":\"User3\",\"content\":\"First comment on post 3\"}","service":"request-logging"}
+{"level":"info","message":"/api/comments - {\"id\":4,\"postId\":2,\"userId\":\"User3\",\"content\":\"First comment on post 3\"}","service":"request-logging"}
+{"level":"info","message":"/api/Users/login - {\"email\":\"john@gmail.com\",\"password\":\"123456\"}","service":"request-logging"}
+{"level":"info","message":"/api/Users/login - {\"email\":\"john@gmail.com\",\"password\":\"123456\"}","service":"request-logging"}
+{"level":"info","message":"/api/comments - {\"id\":4,\"postId\":2,\"userId\":\"User3\",\"content\":\"First comment on post 3\"}","service":"request-logging"}
+{"level":"info","message":"/api/comments/4 - {\"id\":4,\"postId\":2,\"userId\":\"User1111\",\"content\":\"First comment on post 3\"}","service":"request-logging"}
+{"level":"info","message":"/api/comments/4 - {\"id\":4,\"postId\":2,\"userId\":\"User1111\",\"content\":\" comment on post 3\"}","service":"request-logging"}
+{"level":"info","message":"/api/comments/4 - {\"id\":4,\"postId\":2,\"userId\":\"User1111\",\"content\":\" comment on post 3\"}","service":"request-logging"}
